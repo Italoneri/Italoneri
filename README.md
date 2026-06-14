@@ -36,3 +36,14 @@ Sempre aprendendo, sempre codando. Aberto a oportunidades de estágio e entrada 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Italoneri&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italoneri&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9" />
+
+</div>
