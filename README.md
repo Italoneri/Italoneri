@@ -61,3 +61,31 @@ Sempre aprendendo, sempre codando. Aberto a oportunidades de estágio e entrada 
 </picture>
 
 </div>
+
+---
+
+## 📌 Projetos em destaque
+
+<div align="center">
+
+[![APP Academia](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=APP-academia&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/APP-academia)
+[![Escola de Música](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=EscolaMusica&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/EscolaMusica)
+
+[![Jogo de Ritmo](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=Juninho-s-rhythm&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/Juninho-s-rhythm)
+[![Análise Eleitoral DF](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=An-lise-de-dados-de-processos-da-justi-a-eleitoral-do-Distrito-Federal&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/An-lise-de-dados-de-processos-da-justi-a-eleitoral-do-Distrito-Federal)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalo-rodrigues-neri-7645a6334/)
+[![Email](https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italo.neri302@gmail.com)
+
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
