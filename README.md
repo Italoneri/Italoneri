@@ -47,3 +47,17 @@ Sempre aprendendo, sempre codando. Aberto a oportunidades de estágio e entrada 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italoneri&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9" />
 
 </div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="dist/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
