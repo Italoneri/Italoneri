@@ -1,5 +1,5 @@
 <!-- Header wave animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ítalo%20Rodrigues&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Open%20to%20Work&descAlignY=51&descAlign=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ítalo%20Rodrigues&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Open%20to%20Work&descAlignY=51&descAlign=62" />
 
 <div align="center">
 
@@ -88,4 +88,4 @@ Sempre aprendendo, sempre codando. Aberto a oportunidades de estágio e entrada 
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
