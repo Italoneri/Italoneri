@@ -1,5 +1,5 @@
 <!-- Header wave animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ítalo%20Rodrigues&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Open%20to%20Work&descAlignY=51&descAlign=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ítalo%20Rodrigues&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Open%20to%20Work&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
