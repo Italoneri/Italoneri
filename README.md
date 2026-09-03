@@ -68,11 +68,11 @@ Sempre aprendendo, sempre codando. Aberto a oportunidades de estágio e entrada 
 
 <div align="center">
 
-[![APP Academia](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=APP-academia&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/APP-academia)
-[![Escola de Música](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=EscolaMusica&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/EscolaMusica)
+[![doctotex](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=doctotex&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/doctotex)
+[![Glimpse](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=Glimpse&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/Glimpse)
 
-[![Jogo de Ritmo](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=Juninho-s-rhythm&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/Juninho-s-rhythm)
-[![Análise Eleitoral DF](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=An-lise-de-dados-de-processos-da-justi-a-eleitoral-do-Distrito-Federal&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/An-lise-de-dados-de-processos-da-justi-a-eleitoral-do-Distrito-Federal)
+[![Culinária App](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=Culinaria_app&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/Culinaria_app)
+[![Gestor Financeiro](https://github-readme-stats.vercel.app/api/pin/?username=Italoneri&repo=Gestor-financeiro&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/Italoneri/Gestor-financeiro)
 
 </div>
 
